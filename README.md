@@ -1,5 +1,3 @@
-Here is the updated README.md with the deployment instructions removed.
-
 The Benders Bible ⚡️
 The Ultimate Reference & Calculator for Professional Electricians.
 
